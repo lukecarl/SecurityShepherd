@@ -1,7 +1,7 @@
-/ESAPI.properties
-/dbProcs/
 /i18n/
 /jsp/
+/dbProcs/
+/log4j.properties
 /servlets/
-/utils/
 /testLib/
+/utils/
